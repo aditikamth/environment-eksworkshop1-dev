@@ -1,0 +1,15 @@
+adminUser:
+  password: local:eksworkshop1/adminUser:password
+  username: admin
+docker:
+  email: aditikamath2396@gmail.com
+  password: local:eksworkshop1/docker:password
+  url: https://index.docker.io/v1/
+  username: aditikamath9631
+enableDocker: true
+pipelineUser:
+  email: aditikamath31@gmail.com
+  token: local:eksworkshop1/pipelineUser:token
+  username: aditikamth
+prow:
+  hmacToken: local:eksworkshop1/prow:hmacToken
